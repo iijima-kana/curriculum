@@ -1,0 +1,13 @@
+IPv6課題
+
+⑴インターフェースID
+
+A8 AA AA FF FE AA AA AA
+
+⑵インターフェースID
+
+9A 76 54 FF FE 32 10 FE
+
+⑶インターフェースID
+
+FD FF FF FF FE FF FF FF
